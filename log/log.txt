@@ -1,0 +1,12 @@
+17:14:40 ? Location for path / is undefined
+17:14:40 ? Location for path /favicon.ico is undefined
+17:14:54 ? Location for path /Makefile is undefined
+14:1:55 ? Location for path / is undefined
+14:1:56 ? Location for path /favicon.ico is undefined
+14:2:8 ? Location for path /Makefile is undefined
+14:10:15 ? Location for path /Makefile is undefined
+14:14:54 ? Location for path /Makefile is undefined
+9:29:10 ? Location for path /index.html is undefined
+9:29:11 ? Location for path /favicon.ico is undefined
+9:29:32 ? Location for path /Makefile is undefined
+9:30:29 ? Location for path /lol/index.html is undefined
